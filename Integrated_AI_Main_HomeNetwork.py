@@ -1,4 +1,4 @@
-######################################## Integrated_AI_Mode ########################################
+######################################## Integrated_AI_Mode #######################################
 from Integrated_AI_Food_HomeNetwork import *        ## 요리 레시피/맛집 추천 모듈
 from Integrated_AI_News_HomeNetwork import *        ## 뉴스 보기 모듈
 from Integrated_AI_Video_HomeNetwork import *       ## 인기 클립 영상 보기 모듈
