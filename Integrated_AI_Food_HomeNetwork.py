@@ -1,4 +1,4 @@
-################################### 인공지능 모드 - 1. 요리 레피시 / 맛집 검색
+################################## 인공지능 모드 - 1. 요리 레피시 / 맛집 검색
 from URL_Request_Json_Read_HomeNetwork import *
 
 client_id = "R1JCmA0iVfg4x_ecHHkN"                  ## 요리 레시피 / 맛집 검색 ID
