@@ -1,4 +1,4 @@
-############################### 장비 상태 확인 / 장비 제어하는 모듈
+############################## 장비 상태 확인 / 장비 제어하는 모듈
 
 def Print_Device_fir_Status(device_name, device_status):    ## 장비 상태 출력 함수 1-1
     print(">> %s 상태: " % device_name, end="")
