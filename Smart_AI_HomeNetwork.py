@@ -1,4 +1,4 @@
-############################### 스마트 모드 - 인공지능 모드 모듈
+############################## 스마트 모드 - 인공지능 모드 모듈
 
 import time
 from URL_Request_Json_Read_HomeNetwork import *     ## URL 만들어서 request 날려서 JSon 파일 생성 + JSon 파일 읽는 모듈
