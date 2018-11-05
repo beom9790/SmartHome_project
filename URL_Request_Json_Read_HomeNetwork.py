@@ -1,4 +1,4 @@
-########################### URL 만들어서 request 날려서 json 파일 생성 + json 파일 읽는 모듈
+########################## URL 만들어서 request 날려서 json 파일 생성 + json 파일 읽는 모듈
 
 import urllib.request   ## 소스 코드를 따기 위해 브라우저에 request 보내는
 import datetime
