@@ -1,4 +1,4 @@
-########################### Smart Home Network 기본 / 시작 모듈
+########################## Smart Home Network 기본 / 시작 모듈
 
 import threading
 from Check_Control_Device_HomeNetwork import *      ## 장비 상태 확인 / 장비 제어하는 모듈
